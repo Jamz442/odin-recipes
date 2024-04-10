@@ -1,0 +1,1 @@
+This is a project containing recipes. Will be made using HTML and CSS mainly, or maybe just HTML for now.
